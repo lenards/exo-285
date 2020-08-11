@@ -91,3 +91,5 @@ dump.rdb
 # Elm libraries
 **/elm-stuff/*
 
+# compiled output
+elm.js 
